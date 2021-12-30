@@ -6,7 +6,7 @@
     "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
-            "Config\\": "src/Config"
+            "Config\\": "src/Config/am0n/Config"
         }
     },
     "autoload-dev": {
