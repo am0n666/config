@@ -10,11 +10,5 @@
     "Config\\": "src/Config/"
   },
   "license": "proprietary",
-  "authors": [
-    {
-      "name": "am0n666",
-      "email": "am0n666x@gmail.com"
-    }
-  ],
   "minimum-stability": "dev"
 }
